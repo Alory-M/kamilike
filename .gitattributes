@@ -1,0 +1,2 @@
+# Preserve original exported XML formatting.
+Assets/Resources/**/*.xml -whitespace
